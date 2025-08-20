@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buka PDF</title>
+</head>
+<body style="font-family: Arial; text-align: center; margin-top: 50px;">
+  <h2>📄 Dokumen PDF</h2>
+  <p>Klik tombol di bawah untuk membuka file PDF:</p>
+  <a href="dokumen.pdf" target="_blank" 
+     style="display: inline-block; padding: 10px 20px; background: #007BFF; color: white; text-decoration: none; border-radius: 5px;">
+     Buka PDF
+  </a>
+</body>
+</html>
